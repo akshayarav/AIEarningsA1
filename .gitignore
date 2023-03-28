@@ -106,3 +106,6 @@ dist
 
 # Yarn
 yarn.lock
+
+# DS Store
+.DS_Store
